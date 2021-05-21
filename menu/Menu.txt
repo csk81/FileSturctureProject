@@ -1,0 +1,2 @@
+Chicken Kabab:200:STARTERS
+Chicken Biriyani:300:BIRIYANI
